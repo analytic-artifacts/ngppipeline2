@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.Pipeline","timestamp":1474591832097,"sparkVersion":"1.6.0","uid":"IBMSparkPipeline_49aa1f2f3e1a","paramMap":{"stageUids":["Tokenizer_4a909a2c448f3da4fa4f","HashingTF_4132990da9b3ac4848ac","LogisticRegression_4f39b473637aa84472e4"]}}
+{"class":"org.apache.spark.ml.Pipeline","timestamp":1474619669883,"sparkVersion":"1.6.0","uid":"IBMSparkPipeline_5583f58a5dda","paramMap":{"stageUids":["Tokenizer_4bc3b50d8af577f0b533","HashingTF_476283036e751a81a62a","LogisticRegression_4dc8bd8fb4ed66854bbd"]}}
